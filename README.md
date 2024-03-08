@@ -17,7 +17,7 @@ I am a passionate undergraduate student pursuing a degree in Software Engineerin
 
 #### 🌐 Connect with Me:
 
-- [Facebook]
+- Linkedin [www.linkedin.com/in/nisalfonseka]
 
 #### 🎯 Current Goals:
 
