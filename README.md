@@ -11,7 +11,7 @@ I am a passionate undergraduate student pursuing a degree in Software Engineerin
 
 #### 🛠️ Tech Stack:
 
-- Programming Languages: [C,C++,Java,Python]
+- Programming Languages: [C,C++,PHP,Java,Python,Javascript]
 - Frameworks: [React]
 - Tools: [Dev c++, Eclipse, Vs code]
 
