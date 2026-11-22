@@ -2,28 +2,30 @@
 
 # Nisal Fonseka
 
-### AI Application Engineer · Generative AI &amp; LLM Systems
+### AI Engineer · Generative AI, LLM &amp; RAG Systems · Colombo, Sri Lanka
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=650&lines=Generative+AI+%7C+RAG+%7C+LLM-Powered+Platforms;Building+production-grade+AI+chat+%26+agent+systems;TypeScript+%2F+React+%2F+Node.js+%2F+PostgreSQL+%2B+pgvector;Sinhala+NLP+%C2%B7+Fine-Tuning+%C2%B7+AI+Voice+%26+Memory+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=650&lines=AI+Engineer+%C2%B7+Colombo%2C+Sri+Lanka;Generative+AI+%7C+RAG+%7C+LLM-Powered+Platforms;Building+production-grade+AI+chat+%26+agent+systems;TypeScript+%2F+React+%2F+Node.js+%2F+PostgreSQL+%2B+pgvector;Sinhala+NLP+%C2%B7+Fine-Tuning+%C2%B7+AI+Voice+%26+Memory+Systems)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/Email-nisalfonseka%40gmail.com-2EA3F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nisalfonseka@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-nisalfonseka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisalfonseka/) [![Portfolio](https://img.shields.io/badge/Portfolio-nisalfonseka.netlify.app-1B1F23?style=for-the-badge&logo=vercel&logoColor=white)](https://nisalfonseka.netlify.app/) [![GitHub](https://img.shields.io/badge/GitHub-nisalfonseka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nisalfonseka)
+[![Email](https://img.shields.io/badge/Email-nisalfonseka%40gmail.com-2EA3F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nisalfonseka@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-nisalfonseka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisalfonseka/) [![Website](https://img.shields.io/badge/Website-nisalfonseka.com-1B1F23?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nisalfonseka.com) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-nisalfonseka-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/nisalfonseka) [![Medium](https://img.shields.io/badge/Medium-@nisalfonseka-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nisalfonseka) [![GitHub](https://img.shields.io/badge/GitHub-nisalfonseka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nisalfonseka)
 
 </div>
 
 ## About
 
-Nisal Fonseka is an **AI Application Engineer** and final-year **BSc (Hons) Information Technology** undergraduate (Software Engineering) at the **Sri Lanka Institute of Information Technology (SLIIT)**, based in Malabe, Sri Lanka. He designs and builds production-grade **Generative AI** applications — retrieval-augmented generation (RAG) pipelines, multi-LLM chat platforms, AI memory systems, and voice-driven AI agents — using **TypeScript, React, Node.js, PostgreSQL/pgvector**, and providers including **OpenAI, Anthropic Claude, and xAI Grok**. Current focus areas: enterprise AI platforms in higher education, Sinhala-language NLP, and full-stack AI product engineering.
+Nisal Fonseka is an **AI Engineer** based in **Colombo, Sri Lanka**, specializing in **Generative AI, large language models (LLMs), and retrieval-augmented generation (RAG)**. He designs, builds, and ships production-grade **AI applications** — retrieval-augmented generation (RAG) pipelines, multi-LLM chat platforms, AI memory systems, and voice-driven AI agents — using **TypeScript, React, Node.js, PostgreSQL/pgvector**, and providers including **OpenAI, Anthropic Claude, and xAI Grok**. His work spans enterprise AI platforms used by thousands of students, **LLM fine-tuning** (LoRA on Llama-3) for **Sinhala-language NLP**, and full-stack AI product engineering. He publishes models and datasets on [Hugging Face](https://huggingface.co/nisalfonseka) and writes about applied AI engineering on [Medium](https://medium.com/@nisalfonseka). More at **[nisalfonseka.com](https://nisalfonseka.com)**.
 
 <div align="center">
 
-![Open to work](https://img.shields.io/badge/Open%20to-Generative%20AI%20%2F%20Full--Stack%20Engineering%20roles-2EA3F2?style=flat-square)
+![Open to work](https://img.shields.io/badge/Open%20to-AI%20Engineer%20%2F%20LLM%20Engineer%20roles-2EA3F2?style=flat-square)
 
 </div>
 
 - 🔭 **Currently building:** an AI-powered academic chatbot platform for module-specific learning support, planned for deployment across **2,000+ students** at SLIIT
 - 🧠 **Currently exploring:** AI memory architectures, agentic RAG, and Sinhala-language LLM fine-tuning
 - 💬 **Ask me about:** RAG pipelines, vector search (pgvector), LLM integration (OpenAI / Claude / Grok), AI agents, and full-stack TypeScript
-- 📍 **Based in:** Malabe, Sri Lanka &nbsp;|&nbsp; 📫 **Reach me:** nisalfonseka@gmail.com
+- 🤗 **Models &amp; datasets:** [huggingface.co/nisalfonseka](https://huggingface.co/nisalfonseka)
+- ✍️ **Writing:** [medium.com/@nisalfonseka](https://medium.com/@nisalfonseka)
+- 📍 **Based in:** Colombo, Sri Lanka &nbsp;|&nbsp; 🌐 [nisalfonseka.com](https://nisalfonseka.com) &nbsp;|&nbsp; 📫 nisalfonseka@gmail.com
 
 ## Tech Stack
 
@@ -61,7 +63,7 @@ Solo-developed an enterprise-grade AI chat platform actively used by **300+ stud
 Designed and built the architecture for a module-specific AI assistant platform planned for university-wide rollout to **2,000+ students**. Implemented multi-layer AI memory (conversation, semantic student memory, knowledge-base retrieval) and automated document-ingestion pipelines for academic content.
 `React` `TypeScript` `Node.js` `PostgreSQL` `pgvector` `OpenAI API` `RAG` `Vector Search` `JWT`
 
-**SinAI — SinhalaJournalLLM** — *Final Year Research Project, Group Leader*
+**SinAI — SinhalaJournalLLM** — *Applied NLP &amp; LLM Fine-Tuning Research, Team Lead*
 Led a research team building a Sinhala-focused AI writing assistant for journalism on a fine-tuned LLM. Built the Sinhala grammar-correction engine, fine-tuned Llama-3-8B / SinLlama with LoRA (Unsloth, TRL, PEFT), scraped and processed **700K+ newspaper articles**, and produced an 18-category, **36,000+ row** grammar-correction dataset.
 `Python` `FastAPI` `React` `PostgreSQL` `Llama-3-8B` `SinLlama` `LoRA` `Unsloth` `NLP`
 
@@ -76,7 +78,7 @@ Built an AI e-commerce platform for a Sri Lankan rice brand with an intelligent 
 | Software Engineer Intern — Gen AI Applications | SLIIT | Oct 2025 – Present |
 | Software Development Intern | Sri Lanka Telecom | Jan 2025 – Jul 2025 |
 
-**Education:** BSc (Hons) in Information Technology, Specializing in Software Engineering — Sri Lanka Institute of Information Technology (SLIIT), Oct 2022 – Present
+**Education:** BSc (Hons) in Information Technology, Specializing in Software Engineering — Sri Lanka Institute of Information Technology (SLIIT)
 
 ## GitHub Stats
 
@@ -91,6 +93,6 @@ Built an AI e-commerce platform for a Sri Lankan rice brand with an intelligent 
 
 <div align="center">
 
-*Thanks for stopping by — let's build something with AI.*
+*Nisal Fonseka — AI Engineer in Colombo, Sri Lanka · [nisalfonseka.com](https://nisalfonseka.com) · Let's build something with AI.*
 
 </div>
